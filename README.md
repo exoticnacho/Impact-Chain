@@ -1,6 +1,6 @@
-# 🗳️ SofcialFi Petition Platform (Lisk Sepolia)
+# 🗳️ Impact Chain (Lisk Sepolia)
 
-Aplikasi **frontend terdesentralisasi (dApp)** untuk **SofcialFi Petition Platform** yang di-*deploy* di **Lisk Sepolia Testnet**.  
+Aplikasi **frontend terdesentralisasi (dApp)** untuk **Petition Platform** yang di-*deploy* di **Lisk Sepolia Testnet**.  
 Proyek ini memungkinkan pengguna untuk **membuat, melihat, dan menandatangani petisi on-chain** dengan pengalaman pengguna yang mulus berkat **Gasless Transactions** yang disediakan oleh **Panna SDK**.
 
 ---
